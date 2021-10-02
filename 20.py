@@ -13,5 +13,5 @@ class Solution:
         return len(stack) == 1
 
 '''
-
+    
 '''
